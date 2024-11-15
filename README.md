@@ -18,7 +18,7 @@ The dataset used in this project is the **ABC Notation of Tunes** by Shivam Raj,
 To get started with this project, clone the repository and install the required dependencies.
 
 ```bash
-git clone https://github.com/MossabArektout/music-generation
+git clone https://github.com/MossabArektout/Music-Generation-using-RNN-LSTM
 cd music-generation
 ```
 
